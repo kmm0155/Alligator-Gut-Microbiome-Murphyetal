@@ -1,4 +1,5 @@
-Title: Xenobiotic estradiol-17ß alters the microbial gut communities of hatchling American Alligators (Alligator mississippiensis)
+Title: Xenobiotic estradiol-17ß alters gut microbiota of hatchling American Alligators (<i>Alligator mississippiensis<i/>)
+
 
 Kaitlyn M. Murphy1, Madison M. Watkins1, John W. Finger1, Meghan D. Kelley1, Ruth M. Elsey2, Daniel A. Warner1, Mary T. Mendonça1
 
