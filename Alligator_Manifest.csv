@@ -1,0 +1,51 @@
+﻿sample-id,absolute-filepath,direction
+C,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/A1_R1.fastq,forward
+A,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/A2_R1.fastq,forward
+B,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/A3_R1.fastq,forward
+D,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/A4_R1.fastq,forward
+E,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/A5_R1.fastq,forward
+G,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/A6_R1.fastq,forward
+F,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/A7_R1.fastq,forward
+H,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/A8_R1.fastq,forward
+K,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/B1_R1.fastq,forward
+I,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/B2_R1.fastq,forward
+L,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/B3_R1.fastq,forward
+M,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/B4_R1.fastq,forward
+O,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/B5_R1.fastq,forward
+N,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/B6_R1.fastq,forward
+P,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/B7_R1.fastq,forward
+S,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/B8_R1.fastq,forward
+Q,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/C1_R1.fastq,forward
+R,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/C2_R1.fastq,forward
+T,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/C3_R1.fastq,forward
+U,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/C4_R1.fastq,forward
+V,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/C5_R1.fastq,forward
+W,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/C6_R1.fastq,forward
+X,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/C7_R1.fastq,forward
+Positive Control,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/C8_R1.fastq,forward
+Negative Control,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R1/D1_R1.fastq,forward
+C,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/A1_R2.fastq,reverse
+A,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/A2_R2.fastq,reverse
+B,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/A3_R2.fastq,reverse
+D,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/A4_R2.fastq,reverse
+E,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/A5_R2.fastq,reverse
+G,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/A6_R2.fastq,reverse
+F,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/A7_R2.fastq,reverse
+H,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/A8_R2.fastq,reverse
+K,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/B1_R2.fastq,reverse
+I,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/B2_R2.fastq,reverse
+L,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/B3_R2.fastq,reverse
+M,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/B4_R2.fastq,reverse
+O,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/B5_R2.fastq,reverse
+N,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/B6_R2.fastq,reverse
+P,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/B7_R2.fastq,reverse
+S,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/B8_R2.fastq,reverse
+Q,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/C1_R2.fastq,reverse
+R,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/C2_R2.fastq,reverse
+T,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/C3_R2.fastq,reverse
+U,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/C4_R2.fastq,reverse
+V,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/C5_R2.fastq,reverse
+W,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/C6_R2.fastq,reverse
+X,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/C7_R2.fastq,reverse
+Positive Control,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/C8_R2.fastq,reverse
+Negative Control,/mnt/beegfs/home/aubkmm/Alligator_Data_2/KM_P3/R2/D1_R2.fastq,reverse
