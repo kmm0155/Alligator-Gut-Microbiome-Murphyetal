@@ -6,7 +6,7 @@ Kaitlyn M. Murphy1, Madison M. Watkins1, John W. Finger1, Meghan D. Kelley1, Rut
 1Department of Biological Sciences, Auburn University, Auburn, AL 36849
 2Louisiana Department of Wildlife and Fisheries, Grand Chenier, LA 
 
-#This script (along with the attached text version) will give you the output for future analyses involved in this manuscript. For additional questions, feel free to email me at kmm0155@auburn.edu.
+#This script (along with the attached text version) will give you the output for processing 16S rRNA gene-sequences utilized in this manuscript. Sequences can be accessed at the Sequence Read Archive under Accession Number... For additional questions, feel free to email me at kmm0155@auburn.edu.
 
 #Use this if running on your base computer
 #!/bin/sh
