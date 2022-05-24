@@ -403,7 +403,7 @@ datum_rc[is.na(datum_rc)] <- 0
 head(metadata)
 head(datum_rc)
 
-#Transpose it because Vegan is gay and likes it setup this way (Sample = rows, taxnomic=columns)
+#Transpose it because Vegan likes it setup this way (Sample = rows, taxnomic=columns)
 #vt_MDS= as.data.frame(t(sheet2))
 #otherwise run:
 Vt_MDS = datum_rc
@@ -417,7 +417,7 @@ head(V.nMDSAG5)
 summary(V.nMDSAG5)
 stressplot(V.nMDSAG5)
 
-##Let's put these points together with the metadata sheet so we can graph some shit 
+##Let's put these points together with the metadata sheet so we can graph it!
 V.nMDSnumbersAG5=as.data.frame(V.nMDSAG5$points)
 head(V.nMDSnumbersAG5)
 V.nMDSnummetaAG5=cbind(V.nMDSnumbersAG5, Treatment = metadata$subject)
