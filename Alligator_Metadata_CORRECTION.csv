@@ -1,0 +1,26 @@
+﻿sample-id,barcode-sequence,subject
+A,A2,High
+B,A3,Low
+C,A1,High
+D,A4,Control
+E,A5,High
+F,A7,Low
+G,A6,Control
+H,A8,Low
+I,B2,Control
+K,B1,High
+L,B3,High
+M,B4,Control
+N,B6,Control
+Negative Control,D1,Negative Control
+O,B5,Low
+P,B7,Low
+Positive Control,C8,Positive Control
+Q,C1,Control
+R,C2,High
+S ,B8,Low
+T,C3,Low
+U,C4,Control
+V,C5,High
+W,C6,High
+X,C7,Low
